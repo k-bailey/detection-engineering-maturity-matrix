@@ -1,5 +1,7 @@
 # detection-engineering-maturity-matrix
 
+An updated version of this matrix can be found at: [detectionengineering.io](https://detectionengineering.io)
+
 Article: https://kyle-bailey.medium.com/detection-engineering-maturity-matrix-f4f3181a5cc7  
 SANS Blue Team Summit Talk: https://www.youtube.com/watch?v=Dxccs8UDu6w&list=PLs4eo9Tja8biPeb2Wmf2H6-1US5zFjIxW&index=11
 
