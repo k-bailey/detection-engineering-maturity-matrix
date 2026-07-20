@@ -4,8 +4,8 @@ Additional Resources:
 - 2021 SANS Blue Team Summit: Measuring Detection Engineering Teams
 - 2022 BSidesSF: Detection-as-Code: Why it works and where to start
 
-Author: Kyle Bailey (@kylebailey22)
-Last Updated: Sep 2022
+**Author**: Kyle Bailey (@kylebailey22) <br>
+**Last Updated**: Sep 2022
 
 You can find V1 of this matrix on Github.
 
