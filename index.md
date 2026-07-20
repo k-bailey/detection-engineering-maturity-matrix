@@ -1,3 +1,14 @@
+Detection engineering has long been a function of the incident response team. However, over the last several years, it has gained momentum, becoming a dedicated and more well-defined role within many security operations teams. Many great articles and presentations exist (see Medium) on the purpose of detection engineering and how it fits into a broader Security Operations team. This matrix aims to help the community better measure the capabilities and maturity of their detection function and provide a high-level roadmap for organizations looking to either build a team or expand an existing one. (https://kyle-bailey.medium.com/detection-engineering-maturity-matrix-f4f3181a5cc7)
+
+Additional Resources:
+- 2021 SANS Blue Team Summit: Measuring Detection Engineering Teams
+- 2022 BSidesSF: Detection-as-Code: Why it works and where to start
+
+Author: Kyle Bailey (@kylebailey22)
+Last Updated: Sep 2022
+
+You can find V1 of this matrix on Github.
+
 | Category | Subcategory | Defined | Managed | Optimized |
 |---|---|---|---|---|
 | People | Leadership | - Leadership has basic understanding of detection processes and challenges but limited resources or different priorities may exist. | - Leadership advocates for detection as a dedicated function.<br>- The size of the team and the resources needed may not be fully understood. | - Leadership advocates for involvement in detection processes across the business, as well as necessary tools, licensing, and staff. |
