@@ -1,13 +1,14 @@
-Detection engineering has long been a function of the incident response team. However, over the last several years, it has gained momentum, becoming a dedicated and more well-defined role within many security operations teams. Many great articles and presentations exist (see Medium) on the purpose of detection engineering and how it fits into a broader Security Operations team. This matrix aims to help the community better measure the capabilities and maturity of their detection function and provide a high-level roadmap for organizations looking to either build a team or expand an existing one. (https://kyle-bailey.medium.com/detection-engineering-maturity-matrix-f4f3181a5cc7)
+Detection engineering has long been a function of the incident response team. However, over the last several years, it has gained momentum, becoming a dedicated and more well-defined role within many security operations teams. Many great articles and presentations exist (see Medium) on the purpose of detection engineering and how it fits into a broader Security Operations team. This matrix aims to help the community better measure the capabilities and maturity of their detection function and provide a high-level roadmap for organizations looking to either build a team or expand an existing one.
+
+**This page needs to be updated to include AI** and how it should fit into a modern detection engineering team. This page is now back by a [Github repo](https://github.com/k-bailey/detection-engineering-maturity-matrix/blob/main/index.md). If you would like to contribute please feel free to make a pull request!
 
 Additional Resources:
-- 2021 SANS Blue Team Summit: Measuring Detection Engineering Teams
-- 2022 BSidesSF: Detection-as-Code: Why it works and where to start
+- [2022 BSidesSF: Detection-as-Code: Why it works and where to start](https://www.youtube.com/watch?v=VaZp7A6Q9zE)
+- [2021 SANS Blue Team Summit: Measuring Detection Engineering Teams](https://www.youtube.com/watch?v=Dxccs8UDu6w&list=PLs4eo9Tja8biPeb2Wmf2H6-1US5zFjIxW&index=11&t=1s)
 
 **Author**: Kyle Bailey (@kylebailey22) <br>
+**Published**: Apr 2021  <br>
 **Last Updated**: Sep 2022
-
-You can find V1 of this matrix on Github.
 
 | Category | Subcategory | Defined | Managed | Optimized |
 |---|---|---|---|---|
